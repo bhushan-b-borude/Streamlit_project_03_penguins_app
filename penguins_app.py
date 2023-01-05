@@ -8,7 +8,7 @@ import pandas as pd
 import numpy as np
 import streamlit as st
 import pickle
-from scikit_learn.ensemble import RandomForestClassifier
+from sklearn.ensemble import RandomForestClassifier
 from PIL import Image
 
 
